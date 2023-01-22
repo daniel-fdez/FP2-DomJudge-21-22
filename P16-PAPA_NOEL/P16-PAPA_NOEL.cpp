@@ -2,6 +2,7 @@
 // Nombre del problema: P16-PAPA NOEL
 // Comentario general sobre la solución: Número de casos ilimitado
 
+
 #include <iostream>
 #include <fstream>
 // Introduce más librerías si son necesarias
