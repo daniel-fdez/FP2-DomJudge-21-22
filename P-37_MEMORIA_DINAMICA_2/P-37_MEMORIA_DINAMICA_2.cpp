@@ -2,6 +2,7 @@
 // Nombre del problema: P37-MEMORIA DINAMICA 2
 // Comentario general sobre la solución: Número de casos delimitado por un valor centinela
 
+
 #include <iostream>
 #include <fstream>
 using namespace std;
