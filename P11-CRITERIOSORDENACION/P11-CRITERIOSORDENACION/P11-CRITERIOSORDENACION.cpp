@@ -1,5 +1,3 @@
-// Autor/a: Daniel Fernández Ortiz
-// email: danief17@ucm.es
 // Compilador y S.O. utilizado: VS 2019
 // Nombre del problema: P11 Criterios de ordenacion
 // Comentario general sobre la solución: Numero de casos ilimitados
