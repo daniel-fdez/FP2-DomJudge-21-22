@@ -2,6 +2,7 @@
 // Nombre del problema: Máxima cota de un mapa topográfico
 // Comentario general sobre la solución: Número de casos de prueba ilimitados
 
+
 #include <iostream>
 #include <fstream>
 using namespace std;
