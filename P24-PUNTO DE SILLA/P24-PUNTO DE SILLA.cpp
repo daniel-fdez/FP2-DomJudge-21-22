@@ -2,6 +2,7 @@
 // Nombre del problema: P24-PUNTO DE SILLA
 // Comentario general sobre la solución: Número de casos delimitado por un valor centinela
 
+
 #include <iostream>
 #include <fstream>
 using namespace std;
