@@ -1,14 +1,12 @@
-//// Autor/a: Daniel Fern醤dez Ortiz
-//// email: danief17@ucm.es
 //// Compilador y S.O. utilizado: VS 2019
-//// Nombre del problema: Diversi髇 con matrices Parte 2
-//// Comentario general sobre la soluci髇: Casos de prueba ilimitados acotado con un caso de prueba especial
+//// Nombre del problema: Diversi贸n con matrices Parte 2
+//// Comentario general sobre la soluci贸n: Casos de prueba ilimitados acotado con un caso de prueba especial
 //
 //#include <iostream>
 //#include <fstream>
 //#include <iomanip>
 //using  namespace std;
-//// Constantes globales que delimitan el tama駉 de la matriz y el numero maximo de tranformaciones
+//// Constantes globales que delimitan el tama帽o de la matriz y el numero maximo de tranformaciones
 //const int FILAS = 20, COLUMNAS = 20, TRANSFORMACIONES = 10;
 //// Matriz que guarda el contenido de la entrada
 //typedef int tMatriz[FILAS][COLUMNAS];
@@ -20,7 +18,7 @@
 //// Procedimiento que muestra la matriz
 //void mostrar(const tMatriz& matriz, int filas, int columnas);
 //
-//// funci髇 que resuelve el problema
+//// funci贸n que resuelve el problema
 //// comentario sobre el coste, O(f(N)), donde N es ...
 //void resolver(tMatriz matriz, int filas, int columnas, string operacion, int operando) {
 //    if (operacion == "rotarFila") {
@@ -32,7 +30,7 @@
 //}
 //
 //// resuelve un caso de prueba, leyendo de la entrada la
-//// configuraci髇, y escribiendo la respuesta
+//// configuraci贸n, y escribiendo la respuesta
 //bool resuelveCaso() {
 //    tMatriz matriz;
 //    string operacion; // Representa la operacion que se quiere realizar
