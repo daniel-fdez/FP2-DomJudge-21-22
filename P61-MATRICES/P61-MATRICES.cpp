@@ -2,6 +2,7 @@
 //Nombre del problema: Diversión con matrices Parte 2
 //Comentario general sobre la solución: Casos de prueba ilimitados acotados por un caso de prueba especial
 
+
 #include <iostream>
 #include <fstream>
 #include<iomanip>
