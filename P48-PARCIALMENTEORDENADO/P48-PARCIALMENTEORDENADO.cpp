@@ -2,6 +2,7 @@
 // Nombre del problema: Vector parcialmente ordenado
 // Comentario general sobre la solución: Numero de casos ilimitado delimitado con un valor centinela
 
+
 #include <iostream>
 #include <fstream>
 using namespace std;
