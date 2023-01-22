@@ -1,5 +1,3 @@
-//Autor/a: Daniel Fernández Ortiz
-//email: danief17@ucm.es
 //Compilador y S.O. utilizado: VS 2019
 //Nombre del problema: Diversión con matrices Parte 2
 //Comentario general sobre la solución: Casos de prueba ilimitados acotados por un caso de prueba especial
