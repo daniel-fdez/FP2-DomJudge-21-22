@@ -2,6 +2,7 @@
 // Nombre del problema: PR02 RummyKub
 // Comentario general sobre la solución: Numero de casos ilimitados
 
+
 #include <iostream>
 #include <ctime>
 #include <fstream>
