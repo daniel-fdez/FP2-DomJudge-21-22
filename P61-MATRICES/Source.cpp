@@ -1,7 +1,6 @@
 //// Compilador y S.O. utilizado: VS 2019
 //// Nombre del problema: Diversión con matrices Parte 2
 //// Comentario general sobre la solución: Casos de prueba ilimitados acotado con un caso de prueba especial
-//
 //#include <iostream>
 //#include <fstream>
 //#include <iomanip>
