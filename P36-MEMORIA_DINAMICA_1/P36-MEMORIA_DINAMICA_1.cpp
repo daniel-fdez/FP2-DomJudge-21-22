@@ -2,6 +2,7 @@
 // Nombre del problema: P36-MEMORIA DINÁMICA 1
 // Comentario general sobre la solución: Número de casos delimitado por un valor centinela
 
+
 #include <iostream>
 #include <fstream>
 #include <string>
