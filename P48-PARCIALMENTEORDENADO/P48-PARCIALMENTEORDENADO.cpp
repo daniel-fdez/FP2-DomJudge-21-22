@@ -1,5 +1,3 @@
-// Autor/a: Daniel Fernandez Ortiz
-// email: danief17@ucm.es
 // Compilador y S.O. utilizado: VS 2019
 // Nombre del problema: Vector parcialmente ordenado
 // Comentario general sobre la solución: Numero de casos ilimitado delimitado con un valor centinela
