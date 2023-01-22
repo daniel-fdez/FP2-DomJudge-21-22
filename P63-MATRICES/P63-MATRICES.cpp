@@ -2,6 +2,7 @@
 //Nombre del problema: Jaque de reina
 //Comentario general sobre la solución: Numero de casos de prueba
 
+
 #include <iostream>
 #include <fstream>
 #include <utility>
