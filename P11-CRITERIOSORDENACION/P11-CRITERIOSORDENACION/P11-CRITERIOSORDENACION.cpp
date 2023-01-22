@@ -2,6 +2,7 @@
 // Nombre del problema: P11 Criterios de ordenacion
 // Comentario general sobre la solución: Numero de casos ilimitados
 
+
 #include <iostream>
 #include <fstream>
 using namespace std;
