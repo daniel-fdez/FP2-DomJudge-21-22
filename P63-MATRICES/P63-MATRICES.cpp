@@ -1,5 +1,3 @@
-//Autor/a: Daniel Fernández Ortiz
-//email: danief17@ucm.es
 //Compilador y S.O. utilizado: VS 2019
 //Nombre del problema: Jaque de reina
 //Comentario general sobre la solución: Numero de casos de prueba
