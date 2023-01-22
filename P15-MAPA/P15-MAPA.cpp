@@ -1,5 +1,3 @@
-// Autor/a: Daniel Fernández Ortiz
-// email: danief17@ucm.es
 // Compilador y S.O. utilizado: VS 2019
 // Nombre del problema: Máxima cota de un mapa topográfico
 // Comentario general sobre la solución: Número de casos de prueba ilimitados
