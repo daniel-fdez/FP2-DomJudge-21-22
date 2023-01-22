@@ -2,6 +2,7 @@
 // Nombre del problema: PR03 RummyKub
 // Comentario general sobre la solución: Numero de casos delimitados por un valor centinela
 
+
 #include <iostream>
 #include <ctime>
 #include <iomanip>
